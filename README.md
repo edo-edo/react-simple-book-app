@@ -1,3 +1,8 @@
+React-simple-book-app is a simple book front-end app, where you can add data of books and delete.\
+If you reload this page, information doesn’t lose because this data is stored in Local Storage.\
+#npm install\
+#npm install uuidv4\
+#npm start\
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
